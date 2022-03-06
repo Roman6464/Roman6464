@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Roman6464
 - 👀 I’m interested in learning fullstack
-- 🌱 I’m currently learning HTMl, CSS, JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on anything honestly!
 
 <!---
